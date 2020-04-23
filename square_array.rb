@@ -5,7 +5,6 @@ def square_array(array)
     array_2 << n ** 2
   end 
     array_2
-  end 
 end
 
 
