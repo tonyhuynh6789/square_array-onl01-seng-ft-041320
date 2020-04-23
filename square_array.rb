@@ -3,6 +3,7 @@ def square_array(array)
   
   array.each do |n|
     array_2 << n ** 2
+  end 
     array_2
   end 
 end
