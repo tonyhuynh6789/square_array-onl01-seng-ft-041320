@@ -2,7 +2,7 @@ def square_array(array)
    array_2 = []
   
   array.each do |n|
-    array_2 << n ** 2
+    array_2 << n ** n
   end 
     array_2
 end
